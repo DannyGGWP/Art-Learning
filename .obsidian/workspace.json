@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Basic Head Structure Lecture.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Head Structure Lecture"
+              "title": "index"
             }
           }
         ],
@@ -207,11 +207,12 @@
   },
   "active": "d413ee12c674ffe6",
   "lastOpenFiles": [
-    "Definitions/Gesture.md",
+    "Lectures/index.md",
+    "index.md",
     "Lectures/Basic Head Structure Lecture.md",
+    "Definitions/Gesture.md",
     "Definitions",
     "Lectures",
-    "index.md",
     "Definitions/Structure.md",
     "img/Pasted image 20250121112930.png",
     "img",
