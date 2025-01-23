@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Basic Head Structure Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Basic Head Structure Lecture"
             }
           }
         ],
@@ -175,13 +175,23 @@
               "icon": "lucide-list",
               "title": "Outline of index"
             }
+          },
+          {
+            "id": "45915252a501901a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,18 +200,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d413ee12c674ffe6",
   "lastOpenFiles": [
-    "Structure.md",
     "index.md",
-    "Welcome.md",
+    "Structure.md",
     "Gesture.md",
     "Basic Head Structure Lecture.md",
-    "Pasted image 20250121112930.png",
-    "Pasted image 20250121134726.png",
-    "Pasted image 20250121212614.png"
+    "img/Pasted image 20250121112930.png",
+    "img",
+    "Welcome.md",
+    "img/Pasted image 20250121134726.png",
+    "img/Pasted image 20250121212614.png"
   ]
 }
