@@ -5,9 +5,11 @@ tags:
   - learning
 creation date: 2025-01-21T11:10:00
 source: https://www.youtube.com/watch?v=2T7cDY7YDsg
+updated on: 2025-01-23
 ---
-# How to draw the head 
+# How to draw the head 🤯
 ---
+Based on this excellent [lecture](https://www.youtube.com/watch?v=2T7cDY7YDsg)
 ## My 2 cents 
 - Treat the head as the first [[Gesture]] of the body
 - Ear placement can help with perspective 
@@ -22,18 +24,20 @@ source: https://www.youtube.com/watch?v=2T7cDY7YDsg
 5. We want simplicity so we can work quickly. 
 6. we also want it to be characteristic.
 7. Think like a sculptor. 
-## Gesture
+## Gesture 🤌
 
 >[!tip] Size of skull
 >From profile we want the skull to be more egg shaped. Otherwise the head looks alien 
 
 - Egg shape gives sense of movement towards the back of the head. 
 - Their are two main gestures of the head. 
+
 ![[Pasted image 20250121112930.png]]
 
 🔴 The Primary Gesture which flows into the rest of the drawing. 
-🔵 The secondary Gesture which helps keep structure of the head feeling normal. 
-# Construction
+
+🔵 The secondary Gesture which helps keep [[Structure]] of the head feeling normal. 
+# Construction 👷
 ---
  - The height of the head will be slightly longer than the width (From Profile). 
  
@@ -59,7 +63,7 @@ source: https://www.youtube.com/watch?v=2T7cDY7YDsg
 - Transition points between features are VERY Important. 
 - the length of the neck is usually another 1/3rd from the front 
 - trap muscles can be thought of as two cables that connect to the back of the skull 
-### Ear Construction 
+### Ear Construction 👂
 - from the side the ear is at roughly the middle. 
 - if the ear is toward the skull were working a 3/4 front view
 - closer to the face means 3/4 back view
